@@ -4,12 +4,12 @@
 ![Most-Used-Language][language-shield]
 ![Size][size-shield]
 
-<a href="https://adventofcode.com/">
+<a href="https://www.powerdale.com">
 <img src="https://cdn.thenewstack.io/media/2021/12/521cd034-advent-of-code-2021.jpg" alt="Logo">
 </a>
 
 - [Day 1 - Calorie Counting](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_01)
-- [Day 2](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_02)
+- [Day 2 - Rock Paper Scissors](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_02)
 - [Day 3](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_03)
 - [Day 4](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_04)
 - [Day 5](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_05)

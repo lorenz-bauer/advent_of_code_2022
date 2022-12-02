@@ -10,7 +10,7 @@ public class Day_1 {
         int current_calories = 0;
 
         try {
-            FileReader in = new FileReader("/Users/lorenz/IdeaProjects/advent_of_code/src/day_1/input");
+            FileReader in = new FileReader("/Users/lorenz/IdeaProjects/advent_of_code/src/day_01/input");
             BufferedReader br = new BufferedReader(in);
             String line;
             while ((line = br.readLine()) != null) {
