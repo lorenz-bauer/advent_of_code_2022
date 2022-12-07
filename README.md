@@ -14,7 +14,7 @@
 - [Day 4 - Camp Cleanup](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_04)
 - [Day 5 - Supply Stacks](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_05)
 - [Day 6 - Tuning Trouble](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_06)
-- [Day 7](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_07)
+- [Day 7 - No Space Left On Device](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_07)
 - [Day 8](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_08)
 - [Day 9](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_09)
 - [Day 10](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_10)
