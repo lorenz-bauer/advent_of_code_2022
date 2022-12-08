@@ -4,7 +4,7 @@
 ![Most-Used-Language][language-shield]
 ![Size][size-shield]
 
-<a href="adventofcode.com">
+<a href="https://www.adventofcode.com">
 <img src="https://cdn.thenewstack.io/media/2021/12/521cd034-advent-of-code-2021.jpg" alt="Logo">
 </a>
 
@@ -15,7 +15,7 @@
 - [Day 5 - Supply Stacks](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_05)
 - [Day 6 - Tuning Trouble](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_06)
 - [Day 7 - No Space Left On Device](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_07)
-- [Day 8](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_08)
+- [Day 8 - Treetop Tree House](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_08)
 - [Day 9](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_09)
 - [Day 10](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_10)
 - [Day 11](https://github.com/lorenz-bauer/advent_of_code_2022/tree/master/day_11)
